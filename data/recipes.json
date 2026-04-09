@@ -1,0 +1,354 @@
+[
+  {
+    "slug": "10-min-peanut-butter-protein-banana-toast",
+    "title": "10-Min Peanut Butter Protein Banana Toast (35g Protein)",
+    "description": "Crispy toast topped with protein-packed peanut butter, banana, and Greek yogurt.",
+    "image": "https://images.unsplash.com/photo-1565299624946-b28f40a0ca4b?w=400&h=300&fit=crop",
+    "prepTime": "10 min",
+    "protein": 35,
+    "calories": 380,
+    "category": "Breakfast",
+    "ingredients": [
+      "2 slices whole grain bread",
+      "4 tbsp powdered peanut butter",
+      "1 scoop whey protein powder",
+      "1 small banana",
+      "100g Greek yogurt",
+      "1 tsp chia seeds"
+    ],
+    "steps": [
+      "Toast bread until golden.",
+      "Mix PB powder with protein powder and water.",
+      "Spread on toast, top with banana and yogurt.",
+      "Sprinkle chia seeds."
+    ],
+    "faq": [
+      {"q": "Regular PB ok?", "a": "Yes, but powdered keeps calories low."}
+    ]
+  },
+  {
+    "slug": "greek-yogurt-protein-bowl",
+    "title": "15-Min Greek Yogurt Protein Bowl (42g Protein)",
+    "description": "Layered yogurt bowl with berries and nuts for sustained energy.",
+    "image": "https://images.unsplash.com/photo-1528716876897-d86380cf1179?w=400&h=300&fit=crop",
+    "prepTime": "5 min",
+    "protein": 42,
+    "calories": 420,
+    "category": "Breakfast",
+    "ingredients": [
+      "250g Greek yogurt",
+      "1 scoop protein powder",
+      "1/2 cup berries",
+      "1 tbsp almond butter",
+      "10g granola"
+    ],
+    "steps": [
+      "Mix yogurt with protein powder.",
+      "Layer with berries and almond butter.",
+      "Top with granola."
+    ],
+    "faq": [
+      {"q": "Plant-based option?", "a": "Use plant protein and vegan yogurt."}
+    ]
+  },
+  {
+    "slug": "15-min-chicken-salad-wrap",
+    "title": "15-Min Greek Yogurt Chicken Salad Wrap (38g Protein)",
+    "description": "Creamy chicken salad in whole wheat wrap.",
+    "image": "https://images.unsplash.com/photo-1567620905732-2d1ec7ab7445?w=400&h=300&fit=crop",
+    "prepTime": "12 min",
+    "protein": 38,
+    "calories": 410,
+    "category": "Lunch",
+    "ingredients": [
+      "150g canned chicken",
+      "100g Greek yogurt",
+      "1 celery stalk",
+      "1/4 red onion",
+      "1 whole wheat tortilla"
+    ],
+    "steps": [
+      "Mix chicken, yogurt, celery, onion.",
+      "Spread on tortilla with lettuce.",
+      "Roll and slice."
+    ],
+    "faq": [
+      {"q": "Low carb?", "a": "Use lettuce wrap."}
+    ]
+  },
+  {
+    "slug": "tuna-salad-cucumber-boats",
+    "title": "10-Min Tuna Salad Cucumber Boats (36g Protein)",
+    "description": "High protein tuna salad in cucumber halves.",
+    "image": "https://images.unsplash.com/photo-1621996346565-e3dbc353d2e5?w=400&h=300&fit=crop",
+    "prepTime": "8 min",
+    "protein": 36,
+    "calories": 320,
+    "category": "Lunch",
+    "ingredients": [
+      "1 can tuna",
+      "1 large cucumber",
+      "2 tbsp Greek yogurt",
+      "1 tsp mustard",
+      "Pickle relish"
+    ],
+    "steps": [
+      "Mix tuna, yogurt, mustard, relish.",
+      "Hollow cucumber, fill with tuna.",
+      "Serve cold."
+    ],
+    "faq": [
+      {"q": "Add crunch?", "a": "Top with chopped celery."}
+    ]
+  },
+  {
+    "slug": "quick-egg-white-scramble",
+    "title": "12-Min Egg White Protein Scramble (34g Protein)",
+    "description": "Fluffy egg whites with veggies and turkey sausage.",
+    "image": "https://images.unsplash.com/photo-1574019497566-b876c5c58b12?w=400&h=300&fit=crop",
+    "prepTime": "12 min",
+    "protein": 34,
+    "calories": 290,
+    "category": "Dinner",
+    "ingredients": [
+      "8 egg whites",
+      "2 oz turkey sausage",
+      "1 cup spinach",
+      "1/2 bell pepper",
+      "Hot sauce"
+    ],
+    "steps": [
+      "Cook sausage and pepper.",
+      "Add spinach, then egg whites.",
+      "Scramble until cooked."
+    ],
+    "faq": [
+      {"q": "Whole eggs?", "a": "Use 4 whole for richer flavor."}
+    ]
+  },
+  {
+    "slug": "ground-turkey-stir-fry",
+    "title": "15-Min Ground Turkey Veggie Stir Fry (41g Protein)",
+    "description": "Lean turkey with broccoli and soy glaze.",
+    "image": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?w=400&h=300&fit=crop",
+    "prepTime": "10 min",
+    "protein": 41,
+    "calories": 370,
+    "category": "Dinner",
+    "ingredients": [
+      "8 oz ground turkey",
+      "2 cups broccoli",
+      "1 tbsp soy sauce",
+      "1 tsp sesame oil",
+      "Garlic powder"
+    ],
+    "steps": [
+      "Brown turkey in sesame oil.",
+      "Add broccoli, cover 3 min.",
+      "Season and serve."
+    ],
+    "faq": [
+      {"q": "Vegetarian?", "a": "Use tempeh or tofu."}
+    ]
+  },
+  {
+    "slug": "cottage-cheese-bowl",
+    "title": "5-Min Cottage Cheese Protein Bowl (38g Protein)",
+    "description": "Cottage cheese with tomatoes and seasoning.",
+    "image": "https://images.unsplash.com/photo-1635352033601-9c0e5e8154eb?w=400&h=300&fit=crop",
+    "prepTime": "5 min",
+    "protein": 38,
+    "calories": 280,
+    "category": "Snacks",
+    "ingredients": [
+      "1 cup cottage cheese",
+      "1/2 cup cherry tomatoes",
+      "Everything bagel seasoning",
+      "Pepper"
+    ],
+    "steps": [
+      "Scoop cottage cheese.",
+      "Top with tomatoes and seasoning.",
+      "Ready!"
+    ],
+    "faq": [
+      {"q": "Fat-free?", "a": "Use fat-free cottage cheese."}
+    ]
+  },
+  {
+    "slug": "protein-shake-ice-cream",
+    "title": "10-Min Protein Shake Ice Cream (30g Protein)",
+    "description": "Blended frozen banana with protein.",
+    "image": "https://images.unsplash.com/photo-1541781774459-bb2af7c25025?w=400&h=300&fit=crop",
+    "prepTime": "10 min",
+    "protein": 30,
+    "calories": 310,
+    "category": "Snacks",
+    "ingredients": [
+      "1 frozen banana",
+      "1 scoop protein powder",
+      "100ml almond milk",
+      "1 tsp PB"
+    ],
+    "steps": [
+      "Blend all until ice cream texture.",
+      "Serve immediately."
+    ],
+    "faq": [
+      {"q": "Make ahead?", "a": "Freeze in popsicle molds."}
+    ]
+  },
+  {
+    "slug": "10-min-protein-pancake-mug",
+    "title": "8-Min Protein Pancake Mug Cake (33g Protein)",
+    "description": "Microwave protein pancake.",
+    "image": "https://images.unsplash.com/photo-1551028719-00167b16eac5?w=400&h=300&fit=crop",
+    "prepTime": "8 min",
+    "protein": 33,
+    "calories": 340,
+    "category": "Breakfast",
+    "ingredients": [
+      "1 scoop protein powder",
+      "1 egg white",
+      "2 tbsp almond flour",
+      "1/4 cup almond milk",
+      "Baking powder"
+    ],
+    "steps": [
+      "Mix in mug, microwave 2 min.",
+      "Top with berries."
+    ],
+    "faq": []
+  },
+  {
+    "slug": "garlic-shrimp-avocado-salad",
+    "title": "15-Min Garlic Shrimp Avocado Salad (37g Protein)",
+    "description": "Quick shrimp on avocado base.",
+    "image": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3133?w=400&h=300&fit=crop",
+    "prepTime": "15 min",
+    "protein": 37,
+    "calories": 400,
+    "category": "Dinner",
+    "ingredients": [
+      "150g shrimp",
+      "1/2 avocado",
+      "Mixed greens",
+      "Lemon juice",
+      "Garlic"
+    ],
+    "steps": [
+      "Heat shrimp with garlic.",
+      "Toss greens with lemon.",
+      "Top with shrimp."
+    ],
+    "faq": []
+  },
+  {
+    "slug": "turkey-rollups",
+    "title": "7-Min Turkey Roll-Ups (32g Protein)",
+    "description": "Turkey with cheese and veggies.",
+    "image": "https://images.unsplash.com/photo-1628775369455-8b4f52cb0e9e?w=400&h=300&fit=crop",
+    "prepTime": "7 min",
+    "protein": 32,
+    "calories": 270,
+    "category": "Snacks",
+    "ingredients": [
+      "4 oz turkey slices",
+      "2 string cheese",
+      "Carrot sticks",
+      "Mustard"
+    ],
+    "steps": [
+      "Spread mustard on turkey.",
+      "Add cheese and veggies.",
+      "Roll tightly."
+    ],
+    "faq": []
+  },
+  {
+    "slug": "canned-salmon-patties",
+    "title": "15-Min Canned Salmon Patties (39g Protein)",
+    "description": "Pan-fried salmon patties.",
+    "image": "https://images.unsplash.com/photo-1579588486207-0ec7b0d9a84c?w=400&h=300&fit=crop",
+    "prepTime": "15 min",
+    "protein": 39,
+    "calories": 360,
+    "category": "Dinner",
+    "ingredients": [
+      "1 can salmon",
+      "1 egg white",
+      "1 tbsp almond flour",
+      "Lemon zest"
+    ],
+    "steps": [
+      "Mix, form patties.",
+      "Pan fry 3 min per side."
+    ],
+    "faq": []
+  },
+  {
+    "slug": "casein-apple-dip",
+    "title": "5-Min Casein Apple Protein Dip (31g Protein)",
+    "description": "Thick dip for apple slices.",
+    "image": "https://images.unsplash.com/photo-1560806887-1e4cd0b6cbd6?w=400&h=300&fit=crop",
+    "prepTime": "5 min",
+    "protein": 31,
+    "calories": 290,
+    "category": "Snacks",
+    "ingredients": [
+      "1 scoop casein protein",
+      "1 apple",
+      "6 tbsp milk",
+      "Cinnamon"
+    ],
+    "steps": [
+      "Mix casein with milk to dip.",
+      "Slice apple, dip away!"
+    ],
+    "faq": []
+  },
+  {
+    "slug": "protein-overnight-oats",
+    "title": "10-Min Protein Overnight Oats (32g Protein)",
+    "description": "Make-ahead oats with casein.",
+    "image": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=400&h=300&fit=crop",
+    "prepTime": "10 min",
+    "protein": 32,
+    "calories": 360,
+    "category": "Breakfast",
+    "ingredients": [
+      "40g oats",
+      "1 scoop casein protein",
+      "200ml milk",
+      "1/2 banana"
+    ],
+    "steps": [
+      "Mix all in jar.",
+      "Refrigerate overnight."
+    ],
+    "faq": []
+  },
+  {
+    "slug": "quick-tuna-melt",
+    "title": "12-Min High Protein Tuna Melt (36g Protein)",
+    "description": "Tuna on English muffin with cheese.",
+    "image": "https://images.unsplash.com/photo-1540189549336-e6e99c3679fe?w=400&h=300&fit=crop",
+    "prepTime": "12 min",
+    "protein": 36,
+    "calories": 390,
+    "category": "Lunch",
+    "ingredients": [
+      "1 can tuna",
+      "1 English muffin",
+      "1 slice cheddar",
+      "Greek yogurt",
+      "Lemon"
+    ],
+    "steps": [
+      "Mix tuna with yogurt.",
+      "Top muffin with cheese.",
+      "Microwave until melted."
+    ],
+    "faq": []
+  }
+]
